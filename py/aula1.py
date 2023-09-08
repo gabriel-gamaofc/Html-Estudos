@@ -26,6 +26,15 @@
 #t6=10%3 # resto da divisão
 #print(t6)
 
-t7=5**3 #Exponenciação
-print(t7)
- 
+#t7=5**3 #Exponenciação
+#print(t7)
+
+#4.Operadores Relacionais Simples
+#g=10
+#x=2
+#teste1 =g>x
+#teste2 =g<x
+#teste3 =g==x
+#print(teste1)
+#print(teste2)
+#print(teste3)
